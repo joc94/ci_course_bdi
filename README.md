@@ -1,3 +1,6 @@
+![Windows, macOS, Linux](https://github.com/joc94/ci_course_bdi/workflows/Windows,%20macOS,%20Linux/badge.svg)
+![Python 3.6-3.9](https://github.com/joc94/ci_course_bdi/workflows/Python%203.6-3.9/badge.svg)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
